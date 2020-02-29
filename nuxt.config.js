@@ -19,7 +19,7 @@ export default {
   ** Customize the progress-bar color
   */
   loading: {
-    name: 'circle',
+    name: 'none',
     color: '#3B8070',
     background: 'white'
   },
